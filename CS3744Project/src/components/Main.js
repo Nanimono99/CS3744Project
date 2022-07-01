@@ -1,4 +1,3 @@
-import { color } from "d3";
 
 function MyMain() {
     return (

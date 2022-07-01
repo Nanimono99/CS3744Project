@@ -1,5 +1,3 @@
-import { color } from "d3";
-
 function MyFooter() {
     return (
         <footer style={{  textAlign: "center", bottom: "0",
