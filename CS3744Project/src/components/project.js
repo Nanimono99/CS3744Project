@@ -67,7 +67,7 @@ function Content() {
                     </a>
                 </div>
                 <a href={"/project/4"}>
-                    <img style={{paddingTop: "5vw", paddingBottom: "5vw"}} src={require("./picture/P5.png")} width="40%" height="50%"
+                    <img style={{paddingTop: "5vw", paddingBottom: "5vw"}} src={require("./picture/D3.png")} width="40%" height="50%"
                          alt={"p3"}/>
                 </a>
             </div>
